@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Tonfilho23/btc-frontend/issues"
   },
-  "homepage": "https://github.com/Tonfilho23/btc-frontend#readme"
+  "homepage": "https://github.com/Tonfilho23/btc-frontend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
+
